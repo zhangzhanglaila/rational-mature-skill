@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mature Elegant"
+  short_description: "Direct Chinese support for relationships and decisions."
+  default_prompt: "Use $mature-elegant to think clearly about a relationship, workplace, emotional, or decision problem."
